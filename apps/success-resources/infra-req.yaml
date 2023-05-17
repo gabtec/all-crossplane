@@ -1,0 +1,7 @@
+name: infra request
+kind: todo
+app:
+  name: success
+  namespace: ok
+resources:
+  db: postgres:15.1-alpine
