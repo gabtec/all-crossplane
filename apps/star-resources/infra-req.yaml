@@ -1,7 +1,0 @@
-name: infra request
-kind: todo
-app:
-  name: star
-  namespace: wars
-resources:
-  db: postgres:14.8-alpine
